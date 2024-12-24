@@ -1,1 +1,3 @@
-- 
+- National Project of Innovation and Entrepreneurship for College Students, 2023
+- Second-prize in Guangxi Division of the National College Student Statistical Modeling Competition, 2022.
+- Outstanding student cadres, 2021

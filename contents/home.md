@@ -12,5 +12,5 @@ M.Bc., Data Science & Analytics,National University of Malaysia , 2024—2026 (e
 B.Bc., Statistics, Guangxi University of Finance and Economics , 2019—2023.
 
 #### Research Interests
--
+-Data Analytics
 
